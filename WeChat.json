@@ -1,20 +1,20 @@
 {
   "name": "WeChat",
-  "identifier": "com.reef.Ress",
+  "identifier": "com.wechat.crisp",
   "apps": [
     {
       "name": "WeChat",
-      "bundleIdentifier": "com.reef.Ress",
-      "developerName": "Ress",
+      "bundleIdentifier": "com.wechat.crisp",
+      "developerName": "Crisp",
       "subtitle": "Social Tools",
       "version": "7.0.3",
       "versionDate": "2020-04-29T01:00:00-00:00",
       "versionDescription": "• Use as WeChat avatar version",
-      "downloadURL": "https://github.com/FaizanDurrani/Paperback-Public/releases/download/v0.2.1-r1/Paperback.ipa",
+      "downloadURL": "https://api.downipa.tk/ipa/WeChat.ipa",
       "localizedDescription": "MangaDex reader for iOS",
       "iconURL": "https://api.downipa.tk/imgs/wechat.png",
       "tintColor": "3CB371",
-      "size": 15000000,
+      "size": 91712000,
       "screenshotURLs": [
         "https://api.downipa.tk/imgs/1.PNG",
         "https://api.downipa.tk/imgs/2.PNG",
