@@ -1,0 +1,35 @@
+{
+  "name": "WeChat",
+  "identifier": "com.reef.Ress",
+  "apps": [
+    {
+      "name": "WeChat",
+      "bundleIdentifier": "com.reef.Ress",
+      "developerName": "Ress",
+      "subtitle": "Social Tools",
+      "version": "7.0.3",
+      "versionDate": "2020-04-29T15:00:00-00:00",
+      "versionDescription": "• Use as WeChat avatar version",
+      "downloadURL": "https://github.com/FaizanDurrani/Paperback-Public/releases/download/v0.2.1-r1/Paperback.ipa",
+      "localizedDescription": "MangaDex reader for iOS",
+      "iconURL": "https://faizandurrani.github.io/Paperback-Source/images/logo.png",
+      "tintColor": "3CB371",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/1.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/2.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/3.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/4.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/5.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/6.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ios/7.ios.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ipad/1.ipad.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ipad/2.ipad.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ipad/3.ipad.png",
+        "https://faizandurrani.github.io/Paperback-Source/images/ipad/4.ipad.jpg",
+        "https://faizandurrani.github.io/Paperback-Source/images/ipad/5.ipad.png"
+      ]
+    }
+  ],
+  "news": []
+}
