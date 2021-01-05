@@ -1,29 +1,32 @@
 {
-  "name": "WeChat",
-  "identifier": "com.wechat.crisp",
+  "name": "iGamesGod",
+  "identifier": "com.hidolan.igamesgod",
   "apps": [
     {
-      "name": "WeChat",
-      "bundleIdentifier": "com.wechat.crisp",
-      "developerName": "Crisp",
-      "subtitle": "Social Tools",
-      "version": "7.0.3",
-      "versionDate": "2020-04-29T01:00:00-00:00",
-      "versionDescription": "• Use as WeChat avatar version\n ● Use the official version 7.0.3 as more open",
-      "downloadURL": "https://odobagg-my.sharepoint.com/personal/m6kfykhnr_od_obagg_com/_layouts/15/download.aspx?SourceUrl=/personal/m6kfykhnr_od_obagg_com/Documents/WeChat.ipa",
-      "localizedDescription": "Use the official version 7.0.3 as more open",
-      "iconURL": "https://api.downipa.tk/imgs/wechat.png",
-      "tintColor": "3CB371",
-      "size": 91712000,
+      "name": "AltStore Beta",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "developerName": "Riley Testut",
+      "version": "1.4.2b1",
+      "versionDate": "2020-11-11T12:00:00-07:00",
+      "versionDescription": "This update allows sideloaded apps to use just-in-time (JIT) compilation on iOS 14.2 and later (thanks @osy86!).",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/altstore/1_4_2_b1.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 4792897,
       "screenshotURLs": [
-        "https://api.downipa.tk/imgs/1.PNG",
-        "https://api.downipa.tk/imgs/2.PNG",
-        "https://api.downipa.tk/imgs/3.PNG",
-        "https://api.downipa.tk/imgs/4.PNG",
-        "https://api.downipa.tk/imgs/5.PNG",
-        "https://api.downipa.tk/imgs/6.PNG",
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+        }
       ]
-    }
-  ],
-  "news": []
-}
+    },
